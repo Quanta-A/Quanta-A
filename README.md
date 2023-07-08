@@ -8,4 +8,4 @@
 - ⚙️ I use: `.html`,`.c`,`.py`
 - 🌱 Learning all about **Coding**
 - 💬 Ping me about **web-development**, **react-development**, **development**, **design**
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- ⚡️ Fun fact: I'm a huge fan of Anime
